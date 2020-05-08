@@ -1,0 +1,7 @@
+name = Custom Views
+description = Views should be created in Dev then exported as code (.inc) into this module.
+package = DSS
+version = "7.x-1.0"
+core = 7.x
+
+dependencies[] = views
